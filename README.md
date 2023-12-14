@@ -6,6 +6,10 @@
   <img height="225cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&count_private=true"> 
 </p>
 
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+</p>
+
 
 <!--
 **NelsonModenezNeto/NelsonModenezNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
