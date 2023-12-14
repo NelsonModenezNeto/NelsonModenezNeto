@@ -6,9 +6,16 @@
   <img height="225cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&count_private=true"> 
 </p>
 
+<br>
+
 <p align="center">
    <strong>Linguagens e Ferramentas</strong><br><br>
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+   <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </p>
 
 
