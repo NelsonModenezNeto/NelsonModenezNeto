@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <strong>Linguagens e Ferramentas</strong></p></br>
+   <strong>Linguagens e Ferramentas</strong><br>
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 </p>
 
