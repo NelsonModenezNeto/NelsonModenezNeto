@@ -1,4 +1,4 @@
-<p aling="center" >
+<p align="center" >
    <strong>Olá Pessoal Sou o Neto Técnico em Desenvolvimento de Sistemas</strong>
 </p>
 
