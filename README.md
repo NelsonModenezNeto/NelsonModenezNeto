@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+   <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 </p>
 
 
