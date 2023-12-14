@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img height="225cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&count_private=true"> 
 </div>
 <!--
