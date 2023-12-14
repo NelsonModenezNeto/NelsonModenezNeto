@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&count_private=true"> 
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&layout=compact">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&count_private=true"> 
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&layout=compact">
 </div>
 <!--
 **NelsonModenezNeto/NelsonModenezNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
