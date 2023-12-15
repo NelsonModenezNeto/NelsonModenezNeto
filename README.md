@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="225cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=react&show_icons=true&hide_border=false&count_private=true"> 
+  <img height="225cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"> 
 </p>
 
 <br>
