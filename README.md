@@ -10,6 +10,9 @@
 <br>
 
 ## 💻 Linguagens e Ferramentas
+<a><img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+
+## 💻 Linguagens e Ferramentas
 <div align="center">
    <br>
    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
@@ -28,7 +31,7 @@
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
 
-<br><br><br><br>
+<br><br><br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=NelsonModenezNeto&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
