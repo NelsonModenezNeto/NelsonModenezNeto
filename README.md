@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+<img height="225cm" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=dark&show_icons=true&hide_border=true&count_private=true"> 
   <img height="225cm" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonModenezNeto&theme=dark&hide_border=true"> 
 </p>
 
