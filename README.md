@@ -10,7 +10,9 @@
 <br>
 
 ## 💻 Redes Sociais
-<button>LinkedIn</button>
+<a href="https://www.linkedin.com/in/nelson-modenez-neto-86195922a/" style="display: inline-block; text-decoration: none; background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="vertical-align: middle;" height="20px" width="20px"> LinkedIn
+</a>
 
 <br>
 
