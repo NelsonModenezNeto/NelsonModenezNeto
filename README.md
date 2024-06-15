@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="225cm" src="![NelsonModenezNeto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NelsonModenezNeto&theme=dark&hide_border=true)"> 
+  <img height="225cm" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonModenezNeto&theme=dark&hide_border=true"> 
 </p>
 
 <br>
