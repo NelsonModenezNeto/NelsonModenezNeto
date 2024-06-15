@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-   <strong>Linguagens e Ferramentas</strong><br><br>
+   <strong><h3>Linguagens e Ferramentas</h3></strong><br><br>
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
