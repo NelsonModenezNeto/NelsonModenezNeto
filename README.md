@@ -10,7 +10,7 @@
 <br>
 
 ## 💻 Redes Sociais
-<a><img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+<a href=""><img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
 
 <br>
 
