@@ -1,5 +1,5 @@
 <p align="center" >
-   <strong>Olá Pessoal Sou o Neto Técnico em Desenvolvimento de Sistemas</strong>
+   <strong>Olá Pessoal Sou o Neto</strong>
 </p>
 
 <p align="center">
