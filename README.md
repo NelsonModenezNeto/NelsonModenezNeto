@@ -1,6 +1,5 @@
-<p align="center" >
-   <strong>Olá Pessoal Sou o Neto!!</strong>
-</p>
+### Olá Pessoal Sou o Neto!!
+
 
 <p align="center">
    <img width="700px" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=dark&show_icons=true&hide_border=true&count_private=true"> 
