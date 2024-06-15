@@ -1,6 +1,6 @@
 <strong><h1 align="center">Olá Pessoal Sou o Neto!!</h1></strong>
 
-
+<br>
 
 <p align="center">
    <img width="700px" src="https://github-readme-stats.vercel.app/api?username=NelsonModenezNeto&theme=dark&show_icons=true&hide_border=true&count_private=true"> 
@@ -9,8 +9,10 @@
 
 <br>
 
-## 💻 Linguagens e Ferramentas
+## 💻 Redes Sociais
 <a><img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+
+<br>
 
 ## 💻 Linguagens e Ferramentas
 <div align="center">
