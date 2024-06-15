@@ -9,8 +9,9 @@
 
 <br>
 
+### Linguagens e Ferramentas
 <div align="center">
-   <strong><h3>Linguagens e Ferramentas</h3></strong><br><br>
+   <br>
    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
