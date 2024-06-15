@@ -1,6 +1,5 @@
-<p align="center">
-   <strong><h1>Olá Pessoal Sou o Neto!!</h1></strong>
-</p>
+<strong><h1 align="center">Olá Pessoal Sou o Neto!!</h1></strong>
+
 
 
 <p align="center">
