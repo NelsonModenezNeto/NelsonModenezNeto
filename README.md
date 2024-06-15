@@ -9,7 +9,7 @@
 
 <br>
 
-## Linguagens e Ferramentas
+## 💻 Linguagens e Ferramentas
 <div align="center">
    <br>
    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
