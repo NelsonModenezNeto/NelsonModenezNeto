@@ -10,9 +10,9 @@
 <br>
 
 ## 💻 Redes Sociais
-<a href="https://www.linkedin.com/in/nelson-modenez-neto-86195922a/">
-  <h3><img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">LinkedIn</h3>
-</a>
+
+  <h3><a href="https://www.linkedin.com/in/nelson-modenez-neto-86195922a/"><img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">LinkedIn</a></h3>
+
 
 <br>
 
