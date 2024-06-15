@@ -27,10 +27,6 @@
    <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=NelsonModenezNeto&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
-
 
 <!--
 **NelsonModenezNeto/NelsonModenezNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
