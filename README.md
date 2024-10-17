@@ -1,4 +1,4 @@
-<strong><h1 align="center">Olá Pessoal Sou o Neto!!</h1></strong>
+<strong><h1 align="center">Olá Pessoal Sou o Neto!</h1></strong>
 
 <br>
 
